@@ -13,4 +13,3 @@ if($email!=NULL){
 }
 //redirect
 header("Location:thankyou.html");
-?>
